@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eduartorres
-- 👀 I’m interested in Data Scientist, R, Python, SQL, Machine Learning, Statistics
+- 👀 I’m interested in Data Analysis, R, Python, SQL, Machine Learning, Statistics
 - 🌱 I’m currently learning Advanced Python
 - 💞️ I’m looking to collaborate on projects in Data Science
 - 📫 How to reach me felipehuman@gmail.com
